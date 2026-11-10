@@ -1,0 +1,150 @@
+Cluster,Category,Value,Count
+0,gender,M,423
+0,gender,F,384
+0,country,Usa,612
+0,country,Uk,42
+0,country,Canada,36
+0,country,Germany,24
+0,country,France,24
+0,country,Mexico,15
+0,country,Belgium,15
+0,country,Australia,15
+0,country,Russia,14
+0,country,Denmark,10
+0,region,California,251
+0,region,Nevada,61
+0,region,Arizona,46
+0,region,Colorado,40
+0,region,Washington,36
+0,region,Oregon,34
+0,region,Utah,32
+0,region,Virginia,26
+0,region,Florida,23
+0,region,New York,22
+0,region,Texas,21
+0,region,England,13
+0,region,Northern Ireland,11
+0,region,Georgia,11
+0,region,Brittany,11
+0,region,Scotland,10
+0,region,Alberta,10
+0,region,Ohio,9
+0,region,Manitoba,8
+0,region,Wales,8
+0,region,British Columbia,8
+0,region,Quebec,7
+0,region,Bavaria,7
+0,region,Brussels,6
+0,region,Flanders,6
+0,region,Ile-De-France,6
+0,region,Victoria,6
+0,region,New South Wales,5
+0,region,Tatarstan,5
+0,region,Nuevo Leon,5
+0,region,Hamburg,5
+0,region,Berlin,4
+0,region,Krasnodar Krai,4
+0,region,Baja California,4
+0,region,North Rhine-Westphalia,4
+0,region,Hesse,4
+0,region,Capital Region,4
+0,region,Saint Petersburg,4
+0,region,Occitanie,4
+0,region,Mexico City,3
+0,region,Wallonia,3
+0,region,South Australia,3
+0,region,Southern Denmark,3
+0,region,Ontario,3
+0,region,Jalisco,2
+0,region,North Denmark,2
+0,region,Provence,2
+0,region,Western Australia,1
+0,region,Moscow Oblast,1
+0,region,Puebla,1
+0,region,Normandy,1
+0,region,Zealand,1
+0,client_type,Individual,761
+0,client_type,Company,46
+0,loan_applied,No,516
+0,loan_applied,Yes,291
+0,acquisition_purpose,Home,562
+0,acquisition_purpose,Investment,245
+0,referral_channel,Website,460
+0,referral_channel,Agency,277
+0,referral_channel,Client,70
+1,gender,F,604
+1,gender,M,589
+1,country,Usa,926
+1,country,Uk,53
+1,country,Canada,49
+1,country,Germany,32
+1,country,France,29
+1,country,Belgium,28
+1,country,Mexico,25
+1,country,Australia,24
+1,country,Russia,22
+1,country,Denmark,5
+1,region,California,382
+1,region,Nevada,82
+1,region,Colorado,78
+1,region,Oregon,62
+1,region,Arizona,62
+1,region,Utah,55
+1,region,Virginia,39
+1,region,Washington,37
+1,region,Texas,35
+1,region,Florida,27
+1,region,New York,27
+1,region,Georgia,23
+1,region,Alberta,17
+1,region,England,16
+1,region,Scotland,15
+1,region,Ohio,15
+1,region,Northern Ireland,13
+1,region,British Columbia,12
+1,region,Wallonia,12
+1,region,Hamburg,11
+1,region,Flanders,10
+1,region,Ile-De-France,9
+1,region,Wales,9
+1,region,Provence,8
+1,region,New South Wales,8
+1,region,Quebec,7
+1,region,Berlin,7
+1,region,Manitoba,7
+1,region,Victoria,7
+1,region,Jalisco,7
+1,region,Brussels,6
+1,region,Saint Petersburg,6
+1,region,Krasnodar Krai,6
+1,region,North Rhine-Westphalia,6
+1,region,Puebla,6
+1,region,Ontario,6
+1,region,Novosibirsk,5
+1,region,Nuevo Leon,5
+1,region,Bavaria,5
+1,region,Brittany,5
+1,region,Western Australia,5
+1,region,Mexico City,4
+1,region,Occitanie,4
+1,region,Queensland,4
+1,region,Normandy,3
+1,region,Baja California,3
+1,region,Hesse,3
+1,region,Tatarstan,3
+1,region,North Denmark,2
+1,region,Moscow Oblast,2
+1,region,Capital Region,1
+1,region,Wyoming,1
+1,region,Kansas,1
+1,region,Central Denmark,1
+1,region,Zealand,1
+1,client_type,Individual,1136
+1,client_type,Company,57
+1,loan_applied,No,748
+1,loan_applied,Yes,445
+1,acquisition_purpose,Home,823
+1,acquisition_purpose,Investment,370
+1,referral_channel,Website,643
+1,referral_channel,Agency,428
+1,referral_channel,Client,122
